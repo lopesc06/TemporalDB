@@ -1,0 +1,14 @@
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\bin\Debug\netcoreapp2.2\TemporalTables.deps.json
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\bin\Debug\netcoreapp2.2\TemporalTables.runtimeconfig.json
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\bin\Debug\netcoreapp2.2\TemporalTables.runtimeconfig.dev.json
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\bin\Debug\netcoreapp2.2\TemporalTables.dll
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\bin\Debug\netcoreapp2.2\TemporalTables.pdb
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.csprojAssemblyReference.cache
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.csproj.CoreCompileInputs.cache
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.RazorAssemblyInfo.cache
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.RazorAssemblyInfo.cs
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.AssemblyInfoInputs.cache
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.AssemblyInfo.cs
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.RazorTargetAssemblyInfo.cache
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.dll
+C:\Users\Grupo Icom\Desktop\TemporalTables\TemporalTables\obj\Debug\netcoreapp2.2\TemporalTables.pdb
